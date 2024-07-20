@@ -25,7 +25,10 @@ npm install
 ```sh
 npm run dev
 ```
-
+### Node Version 
+```
+20.12.2
+```
 ### Type-Check, Compile and Minify for Production
 
 ```sh
